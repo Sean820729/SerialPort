@@ -1,0 +1,18 @@
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\bin\Debug\Serial Port.exe.config
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\bin\Debug\Serial Port.exe
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\bin\Debug\Serial Port.pdb
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial Port.csprojResolveAssemblyReference.cache
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial Port.exe
+C:\Users\LINYH\Desktop\Serial Port\Serial Port\obj\Debug\Serial Port.pdb
+D:\C#\Best Lab\Serial Port\Serial Port\bin\Debug\Serial Port.exe.config
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial Port.exe
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial Port.pdb
+D:\C#\Best Lab\Serial Port\Serial Port\bin\Debug\Serial Port.exe
+D:\C#\Best Lab\Serial Port\Serial Port\bin\Debug\Serial Port.pdb
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial Port.csprojResolveAssemblyReference.cache
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial_Port.Form1.resources
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+D:\C#\Best Lab\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache
